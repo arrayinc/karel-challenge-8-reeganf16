@@ -23,6 +23,4 @@ a wall or another beeper pile.
 (1st Street and 1st Avenue) with an empty beeper bag.
 
 • Karel must finish execution facing east at the northeast corner of the world.
-
-See the GitHub repository for a more detailed description with pictures!
 */

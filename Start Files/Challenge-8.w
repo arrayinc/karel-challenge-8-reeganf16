@@ -11,5 +11,5 @@ Beeper: (6, 3) 3
 Beeper: (7, 2) 1
 Beeper: (8, 11) 3
 Karel: (1, 1) EAST
-BeeperBag: 0.00
+BeeperBag: 0
 Speed: 0.00
